@@ -1,10 +1,12 @@
+import Header from "./components/Header"
 
 
 function App() {
 
-  return (
-    <h1 className="text-red-500">OK</h1>
-  )
+    return (
+        <div className="w-screen h-screen bg-blue-300"></div>
+
+    )
 }
 
 export default App
