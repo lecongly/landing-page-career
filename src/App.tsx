@@ -4,6 +4,7 @@ import Features from './components/Features';
 import Blog from './components/Blog';
 import CTA from "./components/CTA";
 import Remote from "./components/Remote";
+import Branches from './components/Branches';
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
             <Blog/>
             <CTA/>
             <Remote/>
+            <Branches/>
         </>
 
     )
