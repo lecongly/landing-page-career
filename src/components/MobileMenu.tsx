@@ -84,7 +84,7 @@ const MobileMenu = ({isOpen}: Props) => {
                 </motion.li>
             </motion.ul>
             <motion.div variants={button}>
-                <Button text="Get started now" maxWidth={true}/>
+                <Button text="Get started now" className="w-full"/>
             </motion.div>
         </motion.div>
     );

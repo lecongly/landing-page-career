@@ -3,7 +3,7 @@ import {motion} from 'framer-motion';
 
 const Hero = () => {
     return (
-        <section className="min-h-screen bg-gradient-to-r from-cyan-700 to-cyan-500 overflow-hidden relative
+        <section className="pt-16 px-4 md:px-8 2xl:px-60 min-h-screen bg-gradient-to-r from-cyan-700 to-cyan-500 overflow-hidden relative
         mx-auto grid gap-8 grid-cols-12
         ">
             <motion.div
@@ -70,7 +70,7 @@ const Hero = () => {
             </motion.div>
 
             <div
-                className="col-span-12 lg:col-span-6 place-self-center mb-8 mt-8 xl:mt-0 lg:mb-0 z-50 font-bold text-neutral-50">
+                className="col-span-12 lg:col-span-6 place-self-center mb-8 mt-8 xl:mt-0 lg:mb-0 z-40 font-bold text-neutral-50">
                 <motion.h1
                     initial={{opacity: 0, y: 5}}
                     animate={{opacity: 1, y: 0}}
