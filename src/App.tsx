@@ -1,6 +1,7 @@
 import Benefits from "./components/Benefits"
 import Hero from "./components/Hero"
 import Features from './components/Features';
+import Blog from './components/Blog';
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
             <Hero/>
             <Benefits/>
             <Features/>
+            <Blog/>
         </>
 
     )
