@@ -1,3 +1,4 @@
+import Benefits from "./components/Benefits"
 import Hero from "./components/Hero"
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
     return (
         <>
             <Hero/>
+            <Benefits/>
         </>
 
     )
