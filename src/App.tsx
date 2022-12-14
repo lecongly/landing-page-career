@@ -6,6 +6,7 @@ import CTA from "./components/CTA";
 import Remote from "./components/Remote";
 import Branches from './components/Branches';
 import CTAAlt from './components/CTAAlt';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
             <Remote/>
             <Branches/>
             <CTAAlt/>
+            <Footer/>
         </>
 
     )
