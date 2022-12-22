@@ -1,13 +1,13 @@
 # Landing Page Career
 
-A landing page built with Vite, React, Tailwind CSS, and TypeScript, using the Frame Motion design system.
+A landing page built with Vite, React, Tailwind CSS, TypeScript and Frame Motion.
 
 <img width="1422" alt="Screen Shot 2022-12-22 at 10 38 01 PM" src="https://user-images.githubusercontent.com/58856636/209169427-b9581857-9572-4bdd-a24c-a37298e3f716.png">
 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development.
 
 ### Prerequisites
 
